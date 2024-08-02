@@ -1,2 +1,1 @@
 pyrogram
-pyrolistener 2.0.1
