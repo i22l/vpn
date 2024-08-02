@@ -20,6 +20,7 @@ from pyrogram.errors import (
 )
 import os 
 os.system("pip install pyro-listener")
+os.system("pip install pytz")
 from pyrolistener import Listener, exceptions
 from asyncio import create_task, sleep, get_event_loop
 from datetime import datetime, timedelta
